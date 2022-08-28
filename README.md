@@ -1,5 +1,8 @@
 
-```Plataforma: Desktop | Yonah, Conroe and Penryn
+
+
+``` Hackintosh
+Plataforma: Desktop | Yonah, Conroe and Penryn
 Placa Mãe: Intel DG31PR
 Processador: Core 2 Duo E8400  @ 3.00GHz
 Vídeo: GeForce 8500 GT
