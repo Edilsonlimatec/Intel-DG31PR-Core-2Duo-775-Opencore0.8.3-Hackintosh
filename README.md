@@ -3,7 +3,7 @@
 
 ``` Hackintosh
 Plataforma: Desktop | Yonah, Conroe and Penryn
-Placa Mãe: Intel DG31PR
+Placa Mãe: Intel DG31PR - Soquete: LGA775
 Processador: Core 2 Duo E8400  @ 3.00GHz
 Vídeo: GeForce 8500 GT
 Áudio: Realtek AL888
