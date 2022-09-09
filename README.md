@@ -18,7 +18,7 @@ Opencore: 0.8.3  Boot Legacy Sem UEFI.
 
 
 
- # Creditos a equipe da Acidanthera e Dortania.
+ Creditos a equipe da Acidanthera e Dortania.
  
  https://github.com/acidanthera.html
  
