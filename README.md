@@ -10,7 +10,7 @@ Vídeo: GeForce 8500 GT
 Wi-fi: FV-A436CD
 SMBIOS: iMac10,1 
 macOS: High Sierra Version 10.13.6 (Build 17G14042)
-Opencore: 0.8.3  Booter Legacy - Dual Boot Windows 10 ```
+Opencore: 0.8.3  Booter Legacy - Dual Boot Windows 10 
 
 
 https://dortania.github.io/OpenCore-Install-Guide/config.plist/penryn.html
