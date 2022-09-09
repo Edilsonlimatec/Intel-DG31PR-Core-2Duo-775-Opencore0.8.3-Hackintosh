@@ -1,6 +1,6 @@
-# 2 Duo E8400 Opencore:0.8.4 Hackintosh
+# Core 2 Duo E8400 Opencore:0.8.4 Hackintosh
 
-               macOS: High Sierra
+               macOS: High Sierra 10.13.6
 
 
  
@@ -10,7 +10,7 @@ Processador: Core 2 Duo E8400  @ 3.00GHz
 Vídeo: GeForce 8500 GT
 Áudio: Realtek AL888
 Wi-fi: FV-A436CD
-SMBIOS: iMac10,1 - Editar
+SMBIOS: iMac10,1 ** `Editar`**
 macOS: High Sierra Version 10.13.6 (Build 17G14042)
 Opencore: 0.8.3  Boot Legacy Sem UEFI.
 
