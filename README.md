@@ -1,4 +1,4 @@
-# Core 2 Duo E8400 Opencore:0.8.4 Hackintosh
+### Core 2 Duo E8400 Opencore:0.8.4 Hackintosh
 
                macOS: High Sierra 10.13.6
 
@@ -14,8 +14,9 @@ SMBIOS: iMac10,1 `Editar`
 macOS: High Sierra Version 10.13.6 (Build 17G14042)
 Opencore: 0.8.3  Boot Legacy Sem UEFI.
 
- Creditos a equipe da Acidanthera e Dortania.
+
+ ### Creditos a equipe da Acidanthera e Dortania.
  
-   https://github.com/acidanthera
-  
-   https://dortania.github.io/OpenCore-Install-Guide/config.plist/penryn.html
+ https://github.com/acidanthera.html
+ 
+ https://dortania.github.io/OpenCore-Install-Guide/config.plist/penryn.html
